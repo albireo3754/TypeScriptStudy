@@ -9,3 +9,9 @@ const carsByMake: string[][] = [
 
 const car = carMakers[0];
 console.log(car)
+
+//Flexible types
+const importantDates = [new Date(), '2030-10']
+
+importantDates.push('3')
+// importantDates.push(3)
