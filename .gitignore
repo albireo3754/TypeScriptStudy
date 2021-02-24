@@ -1,2 +1,4 @@
 node_modules
 package.json
+maps/.cache
+maps/dist
