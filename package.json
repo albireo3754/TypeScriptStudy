@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "axios": "^0.21.1",
+    "typescript": "^4.1.5"
+  },
+  "name": "typescriptstudy",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/starpro123/TypeScriptStudy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/starpro123/TypeScriptStudy/issues"
+  },
+  "homepage": "https://github.com/starpro123/TypeScriptStudy#readme",
+  "devDependencies": {
+    "@types/faker": "^5.1.7",
+    "@types/googlemaps": "^3.43.3",
+    "concurrently": "^6.0.0",
+    "faker": "^5.4.0",
+    "nodemon": "^2.0.7"
+  }
+}
